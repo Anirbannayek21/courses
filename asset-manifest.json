@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/courses/static/css/main.4dcb229e.chunk.css",
+    "main.js": "/courses/static/js/main.d657ea03.chunk.js",
+    "main.js.map": "/courses/static/js/main.d657ea03.chunk.js.map",
+    "runtime-main.js": "/courses/static/js/runtime-main.81f7f8ff.js",
+    "runtime-main.js.map": "/courses/static/js/runtime-main.81f7f8ff.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/courses/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ba33d14f.chunk.js": "/courses/static/js/2.ba33d14f.chunk.js",
+    "static/js/2.ba33d14f.chunk.js.map": "/courses/static/js/2.ba33d14f.chunk.js.map",
+    "index.html": "/courses/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/courses/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4dcb229e.chunk.css.map": "/courses/static/css/main.4dcb229e.chunk.css.map",
+    "static/js/2.ba33d14f.chunk.js.LICENSE.txt": "/courses/static/js/2.ba33d14f.chunk.js.LICENSE.txt",
+    "static/media/img1.d6290037.svg": "/courses/static/media/img1.d6290037.svg",
+    "static/media/img2.0c0e5d23.svg": "/courses/static/media/img2.0c0e5d23.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81f7f8ff.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ba33d14f.chunk.js",
+    "static/css/main.4dcb229e.chunk.css",
+    "static/js/main.d657ea03.chunk.js"
+  ]
+}
